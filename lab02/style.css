@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    text-decoration: underline;
+}
+.section p, .section ul {
+    margin-left: 20px;
+}
